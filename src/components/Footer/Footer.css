@@ -1,0 +1,24 @@
+footer a {
+  text-decoration: none;
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+footer a:hover {
+  border-bottom: none;
+}
+
+.footer-container {
+  text-align: center;
+  padding: 1em 0 1em 0;
+  color: white;
+  background-color: black;
+}
+
+.icon-attribution {
+  margin: 1em 0;
+}
+
+.heart {
+  color: red;
+}
